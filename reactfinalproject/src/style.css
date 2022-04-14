@@ -16,4 +16,21 @@
     font-size: 2em;
     background-color: lightblue;
     margin: 10%;
+    padding: 10% 5px;
+}
+
+
+.linkOneOne{
+    margin: 3vw;
+    color: gray;
+}
+
+.linkTwoOne{
+    margin: 3vw;
+    
+}
+
+.linkThreeOne{
+    margin: 3vw;
+    
 }

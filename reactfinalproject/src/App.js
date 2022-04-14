@@ -15,14 +15,14 @@ function App() {
           <Router>
               <Nav className="justify-content-center navvi" defaultActiveKey="/home" as="ul">
                   <Nav.Item as="li">
-                      <Nav.Link href="/home"><Link className="linkOne" to='/'>Home</Link></Nav.Link>
+                      <Link  className="linkOne linkOneOne" to='/'>Home</Link>
                       
                   </Nav.Item>
                   <Nav.Item as="li">
-                      <Nav.Link eventKey="link-1"><Link className="linkOne" to='/app'>Fruit and Vegetable App</Link></Nav.Link>
+                      <Link className="linkOne linkTwoOne" to='/app'>Fruit and Vegetable App</Link>
                   </Nav.Item>
                   <Nav.Item as="li">
-                      <Nav.Link eventKey="link-2">Link</Nav.Link>
+                      <Link className="linkOne linkThreeOne" to='/app'>Link</Link>
                   </Nav.Item>
               </Nav>
               
