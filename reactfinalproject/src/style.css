@@ -15,8 +15,9 @@
     margin: 0px auto;
     font-size: 2em;
     background-color: lightblue;
-    margin: 10%;
-    padding: 10% 5px;
+    margin: 5%;
+    
+    padding: 5% 5px;
 }
 
 
@@ -33,4 +34,55 @@
 .linkThreeOne{
     margin: 3vw;
     
+}
+
+
+.inputTwo{
+    width: 5%;
+    margin: 2%  5%;
+    
+}
+
+.fruitInput{
+    display: inline;
+    font-size: 1.8em;
+    
+}
+
+
+.title{
+    font-size: 2.1em;
+    text-align: center;
+    margin: 10%;
+}
+
+.main{
+
+    margin: 3%;
+}
+
+
+.nameInput {
+    margin: 2% 5%;
+}
+
+
+.buttonResult{
+    text-align: center;
+    margin: 5%;
+}
+
+.message{
+    border: 1px solid blue;
+    text-align: center;
+    width: 50%;
+    margin-left: 5%;
+    font-size: 2.2em;
+}
+
+.navbutton{
+    margin-top: 50%;
+}
+.picture{
+    margin: 1% 10%;
 }
